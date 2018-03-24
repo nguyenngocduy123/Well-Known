@@ -1,0 +1,48 @@
+/*XUAT KHAU LAO DONG*/
+.atitle{color: #000;}
+.atitle:hover{color: #ffb405;text-decoration: none;}
+.h3title{font-size:21px; line-height:25px; text-decoration:none;}
+.h4title{border-bottom: 2px solid #ffb405;}
+.spantitle{background-color:#ffb405;display: inline-block;color: #fff;padding: 7px 12px 4px 12px;}
+.arow{text-decoration:none; color:#000; font-weight: bold; }
+.arow:hover{color: #ffb405;text-decoration: none;}
+.prow{font-size:13px; float:left;font-weight: 500px;margin-bottom: 4px;line-height: 20px;}
+.imgrow{padding-bottom:26px;}
+.xemthem{float:right;color:#777;}
+.xemthem:hover{color: #ffb405;}
+/*DU HOC*/
+.atitle1{color: #000; padding-bottom: 21px;}
+.atitle1:hover{color: #4caf50;text-decoration: none;}
+.h3title1{font-size:21px; line-height:25px; text-decoration:none;}
+.h4title1{border-bottom: 2px solid #4caf50;}
+.spantitle1{background-color:#4caf50;display: inline-block;color: #fff;padding: 7px 12px 4px 12px;}
+.arow1{text-decoration:none; color:#000; font-weight: bold; }
+.arow1:hover{color: #4caf50;text-decoration: none;}
+.prow1{font-size:13px; float:left;font-weight: 500px;margin-bottom: 4px;line-height: 20px;}
+.imgrow1{padding-bottom:26px; width: 100%;}
+.xemthem1{float:right;color:#777;}
+.xemthem1:hover{color: #4caf50;}
+/* tin tuc */
+.spantitle10{background-color:#3a5795;display: inline-block;color: #fff;padding: 7px 12px 4px 12px; opacity:0.8}
+/*DON HANG*/
+.atitle2:hover{color: #ce3000;text-decoration: none;}
+.h3title2{font-size:21px; line-height:25px; text-decoration:none;}
+.h4title2{border-bottom: 2px solid #ce3000; margin-bottom:24px;}
+.spantitle2{background-color:#ce3000;display: inline-block;color: #fff;padding: 7px 12px 4px 12px;}
+.arow2{text-decoration:none; color:#000; font-weight: bold; }
+.arow2:hover{color: #ce3000;text-decoration: none;}
+.prow2{font-size:13px; float:left;font-weight: 500px;margin-bottom: 4px;line-height: 20px;text-align:justify;}
+.imgrow2{padding-bottom:24px; width: 100%;}
+
+/*page du học*/
+.h4title4{border-bottom: 2px solid #607d8b; margin-bottom:24px;}
+.spantitle4{background-color:#607d8b;display: inline-block;color: #fff;padding: 7px 12px 4px 12px;}
+
+/*thư viện ảnh*/
+.h4title3{border-bottom: 2px solid #4db2ec; margin-bottom:24px;}
+.spantitle3{background-color:#4db2ec;display: inline-block;color: #fff;padding: 7px 12px 4px 12px;}
+	.spantitle5{background-color:#4db2ec;display: inline-block;padding: 7px 12px 0px 12px; float: right; margin-right: 0px;}
+/*chuyên trang*/
+.h4title6{border-bottom: 2px solid #3a5795; margin-bottom:24px;}
+.spantitle6{background-color:#3a5795;display: inline-block;color: #fff;padding: 7px 12px 4px 12px;}
+

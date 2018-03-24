@@ -1,0 +1,9 @@
+@import compass/css3;@import "http://fonts.googleapis.com/css?family=Lato:300,400,700,900";@import "http://fonts.googleapis.com/css?family=Pacifico";.text-center{text-align:center}*,:before,:after{-webkit-border-sizing:border-box;-moz-border-sizing:border-box;border-sizing:border-box}.container1{width:350px;margin:50px auto;&ullist-style:none;padding:0;margin:0 0 20px 0}// =============================================================================
+//	Mixins and Variables
+// =============================================================================
+$blue: #2980B9;
+$gray: #EEE;
+@mixin ul-nostyle{list-style:none;padding:0;margin:0}// =============================================================================
+//	Classes
+// =============================================================================
+.title{font-family:'Pacifico';font-weight:norma;font-size:40px;text-align:center;line-height:1.4;color:$blue}.dropdown1{atext-decoration:none}[data-toggle="dropdown1"]{position:relative;display:block;color:#fff;background:$blue;padding:10px}.icon-arrow{position:absolute;display:block;font-size:.7em;color:#fff;top:14px;right:10px}&:before{content:'\25BC'}.dropdown1-menu1{max-height:0;overflow:hidden;lipadding:0;adisplay:block;color:darken($gray,50%);background:$gray;padding:10px}.show{display:block;max-height:9999px}.hide{max-height:0}

@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+#wrapper{width:900px;margin:50px auto}
+.modern-ticker{margin-bottom:50px}
+#options{background-image:url(options-background.png);padding:12px 20px;border-radius:10px}
+#corners,#layout,#theme{float:left}
+#layout,#theme{margin-right:60px}
+#options h1{color:#fafafa;background-color:#4a4a4a;padding:8px 12px;margin-bottom:5px;text-transform:uppercase}
+#options li{color:#202020;background-color:#e0e0e0;padding:8px 12px;margin-bottom:2px;cursor:pointer;border-radius:5px}
+#options .selected,#options li:hover{background-color:#09f}
+#options .hlist ul{margin-right:20px;float:left}
+#options .hlist ul:last-child{margin-right:0}.clear{clear:both}
